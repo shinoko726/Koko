@@ -58,7 +58,8 @@ body {
   line-height: 1.440000000000000002em; /* 25.92px/18px */
   padding-top: 1.440000000000000002em; /* 25.92px/18px */
   padding-left: 1.200em;
-  padding-right: 0.600em;  
+  padding-right: 0.600em; 
+  text-size-adjust: 100%;
 }
 
 h2 {
